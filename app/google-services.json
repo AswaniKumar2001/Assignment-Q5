@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030153295131",
+    "project_id": "assigment-q5",
+    "storage_bucket": "assigment-q5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030153295131:android:1d28f811334cd4d2bb6fbe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2FQLO4gWTED8rfjTZiGLtjLZcYL5DTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
